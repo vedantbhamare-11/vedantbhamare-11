@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vedantbhamare-11
 - 👀 I’m interested in Front End Development as well as UI/UX Design
-- 🌱 I’m currently learning Computer Engineering(2nd year)
+- 🌱 I’m currently learning Computer Engineering(3r
+- d year)
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me: 
   Email: vedantdbhamare@gmail.com
