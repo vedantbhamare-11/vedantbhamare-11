@@ -17,7 +17,7 @@
 - ⚡ Fun fact **"Did you know that the first computer bug was a literal bug? In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term 'bug' was coined to describe computer glitches."**
 
 ### Blogs posts
-[<!-- BLOG-POST-LIST:START -->](https://medium.com/@vedantdbhamare/introduction-to-gemini-api-scopes-challenges-and-best-practices-026ebb9c4527)
+[<!-- BLOG-POST-LIST:START -->]()<a href="https://medium.com/@vedantdbhamare/introduction-to-gemini-api-scopes-challenges-and-best-practices-026ebb9c4527">introduction-to-gemini-api-scopes-challenges-and-best-practices</a>
 [<!-- BLOG-POST-LIST:END -->](https://medium.com/@vedantdbhamare/minimizing-the-feedback-loop-in-programming-a-guide-to-accelerated-learning-9dc4ed4f2bc9)
 [<!-- BLOG-POST-LIST:END -->](https://medium.com/@vedantdbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-c9d97a508b4e)
 
