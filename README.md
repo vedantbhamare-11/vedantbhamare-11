@@ -4,21 +4,22 @@
 <img align="right" alt="fun coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantbhamare-11&label=Profile%20views&color=0e75b6&style=flat" alt="vedantbhamare-11" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript, NodeJS**
+- 🌱 I’m currently learning **React-native, TypeScript, NodeJS, LLMs and more...**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Projects-441367d3f63a46da95f2f78702c0933b](https://www.notion.so/Projects-441367d3f63a46da95f2f78702c0933b)
 
 - 📝 I regularly write articles on [https://medium.com/@vedantdbhamare](https://medium.com/@vedantdbhamare)
 
-- 💬 Ask me about **Python, Machine Learning, Dad-jokes, many more..**
+- 💬 Ask me about **Python, Machine Learning, Web/Mobile Dev. Dad-jokes, many more..**
 
 - 📫 How to reach me **vedantdbhamare@gmail.com**
 
 - ⚡ Fun fact **"Did you know that the first computer bug was a literal bug? In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term 'bug' was coined to describe computer glitches."**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<!-- BLOG-POST-LIST:START -->](https://medium.com/@vedantdbhamare/introduction-to-gemini-api-scopes-challenges-and-best-practices-026ebb9c4527)
+[<!-- BLOG-POST-LIST:END -->](https://medium.com/@vedantdbhamare/minimizing-the-feedback-loop-in-programming-a-guide-to-accelerated-learning-9dc4ed4f2bc9)
+[<!-- BLOG-POST-LIST:END -->](https://medium.com/@vedantdbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-c9d97a508b4e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
