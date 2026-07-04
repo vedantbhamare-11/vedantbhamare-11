@@ -185,9 +185,9 @@ React Native
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedantbhamare-11&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedantbhamare-11&show_icons=true&theme=github_dark-blue"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhamare-11&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedantbhamare-11&layout=compact&theme=github_dark-blue"/>
 
 </p>
 
